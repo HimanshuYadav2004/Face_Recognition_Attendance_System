@@ -30,12 +30,24 @@ Smile for the code, as we blend innovation with the pixels of cv2, dance with ti
 <br>
 <H6> You can easily add more number of Users And There PassWords As Required ! </H6>
 <BR>
-# WORKING ⚒ <BR>
+# WORKING ⚒ 
+<BR>
+
 <img width="422" alt="image" 
 src="https://github.com/HimanshuYadav2004/Face_Recognition_Attendance_System/assets/157117228/e9c46731-3c4b-42c7-85d2-a8035bb8078f  border: 3px solid  gray; border-radius:55p">
+
+
 <BR>
-# UPDATING .CSV FILE AND ATTENDANCE OF THE STUDENTS <BR>
+
+
+# UPDATING .CSV FILE AND ATTENDANCE OF THE STUDENTS 
+
+<BR>
+
+
 <img width="412" alt="image" src="https://github.com/HimanshuYadav2004/Face_Recognition_Attendance_System/assets/157117228/7a7dc1c8-07ed-4438-bab1-7051681b2651  border: 3px solid  gray; border-radius:55p">
+
+<BR>
 
 <H1> THANKYOU ✌️</H1>
 
