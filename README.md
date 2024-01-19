@@ -11,9 +11,10 @@ Smile for the code, as we blend innovation with the pixels of cv2, dance with ti
 
 # Installing Required Libararies 
 <img width="232" alt="image" src="https://github.com/HimanshuYadav2004/Face_Recognition_Attendance_System/assets/157117228/7af08ccf-3a2c-4535-bc95-b06014562107 border: 2px solid  gray; border-radius:55px">
-**INSTALL - CV2 **
-**INSTALL - NUMPY **
-**INSTALL - DATETIME **
-**INSTALL - OS **
-**INSTALL - FACE_RECOGNITION **
+<BR>
+<H5>INSTALL - CV2</H5> 
+<H5>INSTALL - NUMPY</H5>
+<H5>INSTALL - DATETIME</H5>
+<H5>INSTALL - OS </H5>
+<H5>INSTALL - FACE_RECOGNITION</H5>
 
