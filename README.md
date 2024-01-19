@@ -1,5 +1,7 @@
 # Attendance System using Python
 📸 Welcome to our Face Recognition Attendance System! 🚀
+<BR>
+<H7> IF YOU LIKED MY PROJECT THEN PLEASE DO FOLLOW ME AND STAR MY REPOSITORY ❤️ <H7/>
 
 Harnessing the power of Python and its wizards—cv2, numpy, datetime, os, and face_recognition—we've conjured a seamless solution for automating attendance. 🌐✨
 
@@ -33,7 +35,7 @@ Smile for the code, as we blend innovation with the pixels of cv2, dance with ti
 <h2> GLIMPSE OF USER AUTHENTICATION PAGE </h2>
 <img width="456" alt="image" src="https://github.com/HimanshuYadav2004/Face_Recognition_Attendance_System/assets/157117228/dcc481ae-9271-4178-aeee-f1478d37729e  border: 3px solid  gray; border-radius:55p">
 <br>
-<H5> ENTER USER NAME AND PASSEORD WHICH WAS SET EARLIER IN "User" Super-Global Variable </H5>
+<H5> ENTER USER NAME AND PASSwORD WHICH WAS SET EARLIER IN "User" Super-Global Variable </H5>
 
 
 
