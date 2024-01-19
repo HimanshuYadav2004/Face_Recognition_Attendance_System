@@ -17,6 +17,8 @@ Smile for the code, as we blend innovation with the pixels of cv2, dance with ti
 <H5>INSTALL - DATETIME</H5>
 <H5>INSTALL - OS </H5>
 <H5>INSTALL - FACE_RECOGNITION</H5>
+<H5>INSTALL - TKINTER</H5>
+
 <BR>
 <img width="230" alt="image" src="https://github.com/HimanshuYadav2004/Face_Recognition_Attendance_System/assets/157117228/6c6ad689-3428-465b-aa6f-2e2080ece1eb  border: 3px solid  gray; border-radius:55p">
 <BR>
