@@ -10,7 +10,7 @@ Smile for the code, as we blend innovation with the pixels of cv2, dance with ti
  👉 Automate attendance effortlessly with cv2, numpy, datetime, os, and face_recognition. **Utilizes a CSV file to store students' attendance data,** where innovation meets efficiency in pixels and code! 🌐💻 #AttendanceAutomation
 
 # Installing Required Libararies 
-<img width="232" alt="image" src="https://github.com/HimanshuYadav2004/Face_Recognition_Attendance_System/assets/157117228/7af08ccf-3a2c-4535-bc95-b06014562107 border: 2px solid  gray; border-radius:55px">
+<img width="204" alt="image" src="https://github.com/HimanshuYadav2004/Face_Recognition_Attendance_System/assets/157117228/9cde9c77-11e8-4c97-ba04-911385c8f13f  3px solid  gray; border-radius:55p">
 <BR>
 <H5>INSTALL - CV2</H5> 
 <H5>INSTALL - NUMPY</H5>
