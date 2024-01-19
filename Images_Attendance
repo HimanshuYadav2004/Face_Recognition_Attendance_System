@@ -1,5 +1,5 @@
-📸 Face Recognition Attendance System in Python! 🚀
-
-
-
-Automate attendance effortlessly with cv2, numpy, datetime, os, and face_recognition. **Utilizes a CSV file to store students' attendance data.** Ensure all student images reside in the "Images_Attendance" folder, created in one environment for seamless execution! 🌐💻 #AttendanceAutomation
+📸 <H1>Face Recognition Attendance System in Python!<H1/> 🚀
+Automate attendance effortlessly with cv2, numpy, datetime, os, and face_recognition.
+Utilizes a CSV file to store students' attendance data.
+Ensure all student images reside in the "Images_Attendance" folder, created in one environment for seamless execution! 
+🌐💻 #AttendanceAutomation
