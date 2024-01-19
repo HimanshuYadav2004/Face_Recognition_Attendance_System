@@ -24,3 +24,8 @@ Smile for the code, as we blend innovation with the pixels of cv2, dance with ti
 <BR>
 <H2> MAKE AND UPLOAD ALL OF THE IMAGES OF THE STUDENTS IN 'Images_Attendance' FOLDER ON YOUR SYSTEMS IN THE "PATH VARIABLE" </H2>
 
+<h3> FOR PASSWORD ON THE USER AUTHENTICATION PAGE MADE WITH TKINTER</h3> 
+<br>
+<img width="307" alt="image" src="https://github.com/HimanshuYadav2004/Face_Recognition_Attendance_System/assets/157117228/61662cbf-8919-4136-8a08-fc6bc7629a5f  3px solid  gray; border-radius:55">
+<br>
+<H6> You can easily add more number of Users And There PassWords As Required ! </H6>
