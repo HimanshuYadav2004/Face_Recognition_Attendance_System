@@ -28,4 +28,10 @@ Smile for the code, as we blend innovation with the pixels of cv2, dance with ti
 <br>
 <img width="307" alt="image" src="https://github.com/HimanshuYadav2004/Face_Recognition_Attendance_System/assets/157117228/61662cbf-8919-4136-8a08-fc6bc7629a5f  3px solid  gray; border-radius:55">
 <br>
-<H6> You can easily add more number of Users And There PassWords As Required ! </H6>
+<H6> You can easily add more number of Users And There PassWords into "User" Variable  As Required ! </H6> 
+<br>
+<h2> GLIMPSE OF USER AUTHENTICATION PAGE </h2>
+![Screenshot 2023-11-14 170838](https://github.com/HimanshuYadav2004/Face_Recognition_Attendance_System/assets/157117228/04957719-6bab-45e5-b759-2e60a7bbf5fa  3px solid  gray; border-radius:55 )
+
+
+
